@@ -21,7 +21,9 @@ vue.config.js
 
 配置好了，我们写px会帮助我们自动转成rem，而且视口配置也会生成
 
+<img src=" https://raw.githubusercontent.com/nongfusanquan/vant_jrzx/master/src/assets/images/vant_jrzx2.png" style="zoom:33%;" />
 
+<img src=" https://raw.githubusercontent.com/nongfusanquan/vant_jrzx/master/src/assets/images/vant_jrzx.png" style="zoom:33%;" />
 
 
 
